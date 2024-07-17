@@ -1,0 +1,840 @@
+Classifying emotions for: God’s Plan
+Emotions result:
+Output: ['Desire', 'Confidence', 'Determination', 'Loyalty']
+Classifying emotions for: In My Feelings
+Emotions result:
+['Desire', 'Devotion', 'Loyalty', 'Affection']
+Classifying emotions for: Hotline Bling
+Emotions result:
+Output: ['Hurt', 'Longing', 'Sadness', 'Regret']
+Classifying emotions for: One Dance
+Emotions result:
+Output: ['Desire', 'Romance', 'Confidence', 'Determination']
+Classifying emotions for: Hold On, We’re Going Home
+Emotions result:
+Output: ['Desire', 'Devotion', 'Loyalty', 'Affection']
+Classifying emotions for: Know Yourself
+Emotions result:
+['Pride', 'Confidence', 'Determination', 'Anger']
+Classifying emotions for: Back to Back
+Emotions result:
+['Pride', 'Anger', 'Confidence', 'Determination']
+Classifying emotions for: All Me
+Emotions result:
+['pride', 'confidence', 'determination', 'anger']
+Classifying emotions for: From Time
+Emotions result:
+Output: ['Desire', 'Devotion', 'Loyalty', 'Affection']
+Classifying emotions for: Fake Love
+Emotions result:
+['Anger', 'Disappointment', 'Suspicion', 'Distrust']
+Classifying emotions for: No Role Modelz
+Emotions result:
+['Desire', 'Anger', 'Confidence', 'Pride']
+Classifying emotions for: Power Trip
+Emotions result:
+Output: ['Desire', 'Longing', 'Affection', 'Confidence']
+Classifying emotions for: Wet Dreamz
+Emotions result:
+["Desire", "Anxiety", "Nervousness", "Curiosity"]
+Classifying emotions for: Crooked Smile
+Emotions result:
+["Pride", "Confidence", "Determination", "Resilience"]
+Classifying emotions for: MIDDLE CHILD
+Emotions result:
+['Anger', 'Resilience', 'Loyalty', 'Determination']
+Classifying emotions for: She Knows
+Emotions result:
+['Desire', 'Confidence', 'Frustration', 'Resilience']
+Classifying emotions for: Deja Vu
+Emotions result:
+["Desire", "Longing", "Confidence", "Determination"]
+Classifying emotions for: Love Yourz
+Emotions result:
+['Pride', 'Desire', 'Confidence', 'Hope']
+Classifying emotions for: G.O.M.D.
+Emotions result:
+['Anger', 'Pride', 'Confidence', 'Determination']
+Classifying emotions for: Apparently
+Emotions result:
+['Pride', 'Confidence', 'Determination', 'Affection']
+Classifying emotions for: Only
+Emotions result:
+Output: ['Pride', 'Confidence', 'Desire', 'Anger']
+Classifying emotions for: Feeling Myself
+Emotions result:
+['pride', 'confidence', 'determination', 'admiration']
+Classifying emotions for: Barbie Dreams
+Emotions result:
+Output: ['Desire', 'Confidence', 'Anger', 'Pride']
+Classifying emotions for: Truffle Butter
+Emotions result:
+Output: ['Confidence', 'Desire', 'Pride', 'Joy']
+Classifying emotions for: Anaconda
+Emotions result:
+['Pride', 'Confidence', 'Desire', 'Anger']
+Classifying emotions for: Chun-Li
+Emotions result:
+['Pride', 'Anger', 'Confidence', 'Determination']
+Classifying emotions for: Beez In The Trap
+Emotions result:
+['Pride', 'Anger', 'Confidence', 'Determination']
+Classifying emotions for: Super Bass
+Emotions result:
+['Desire', 'Confidence', 'Pride', 'Determination']
+Classifying emotions for: Lookin Ass
+Emotions result:
+Output: ['Anger', 'Frustration', 'Confidence', 'Determination']
+Classifying emotions for: Pills N Potions
+Emotions result:
+['Anger', 'Loyalty', 'Affection', 'Desire']
+Classifying emotions for: No Vaseline
+Emotions result:
+['Anger', 'Pride', 'Confidence', 'Determination']
+Classifying emotions for: It Was a Good Day
+Emotions result:
+Output: ['Pride', 'Happiness', 'Confidence', 'Relief']
+Classifying emotions for: Gangsta Rap Made Me Do It
+Emotions result:
+['Pride', 'Anger', 'Confidence', 'Determination']
+Classifying emotions for: Check Yo Self
+Emotions result:
+['Anger', 'Confidence', 'Determination', 'Pride']
+Classifying emotions for: You Know How We Do It
+Emotions result:
+Output: ['Pride', 'Confidence', 'Anger', 'Determination']
+Classifying emotions for: Hello
+Emotions result:
+['Pride', 'Anger', 'Confidence', 'Determination']
+Classifying emotions for: The Nigga Ya Love To Hate
+Emotions result:
+['Anger', 'Confidence', 'Determination', 'Pride']
+Classifying emotions for: Check Yo Self (Remix)
+Emotions result:
+Output: ['anger', 'confidence', 'determination', 'pride']
+Classifying emotions for: You Can Do It
+Emotions result:
+["Confidence", "Persistence", "Determination", "Resilience"]
+Classifying emotions for: Why We Thugs
+Emotions result:
+["Anger", "Frustration", "Resilience", "Discontent"]
+Classifying emotions for: Love Me
+Emotions result:
+Output: ["Desire", "Confidence", "Pride", "Affection"]
+Classifying emotions for: Mona Lisa
+Emotions result:
+['Anger', 'Confidence', 'Desire', 'Loyalty']
+Classifying emotions for: 6 Foot 7 Foot
+Emotions result:
+['Confidence', 'Anger', 'Pride', 'Determination']
+Classifying emotions for: Believe Me
+Emotions result:
+["Confidence", "Pride", "Determination", "Anger"]
+Classifying emotions for: Mirror
+Emotions result:
+['pride', 'anger', 'confidence', 'determination']
+Classifying emotions for: Rich As Fuck
+Emotions result:
+['Pride', 'Confidence', 'Anger', 'Determination']
+Classifying emotions for: A Milli
+Emotions result:
+['pride', 'anger', 'confidence', 'determination']
+Classifying emotions for: She Will
+Emotions result:
+['Desire', 'Confidence', 'Anger', 'Determination']
+Classifying emotions for: Don’t Cry
+Emotions result:
+['Sadness', 'Desire', 'Devotion', 'Loyalty']
+Classifying emotions for: Lollipop (Remix)
+Emotions result:
+['Desire', 'Confidence', 'Pride', 'Excitement']
+Classifying emotions for: Mercy
+Emotions result:
+["Pride", "Confidence", "Desire", "Anger"]
+Classifying emotions for: Monster
+Emotions result:
+['Pride', 'Anger', 'Confidence', 'Desire']
+Classifying emotions for: Father Stretch My Hands, Pt. 1
+Emotions result:
+Output: ['Desire', 'Devotion', 'Empowerment', 'Longing']
+Classifying emotions for: Ultralight Beam
+Emotions result:
+['Faith', 'Hope', 'Desire', 'Devotion']
+Classifying emotions for: Bound 2
+Emotions result:
+['Desire', 'Devotion', 'Loyalty', 'Affection']
+Classifying emotions for: New Slaves
+Emotions result:
+['Anger', 'Pride', 'Determination', 'Desire']
+Classifying emotions for: Runaway
+Emotions result:
+['anger', 'despair', 'frustration', 'regret']
+Classifying emotions for: Blood On the Leaves
+Emotions result:
+['Despair', 'Anger', 'Loneliness', 'Desire']
+Classifying emotions for: Black Skinhead
+Emotions result:
+Output: ['Anger', 'Confidence', 'Desire', 'Determination']
+Classifying emotions for: No More Parties in LA
+Emotions result:
+["Pride", "Confidence", "Anger", "Desire"]
+Classifying emotions for: Holy Grail
+Emotions result:
+['Longing', 'Betrayal', 'Confusion', 'Frustration']
+Classifying emotions for: Empire State of Mind
+Emotions result:
+['Pride', 'Confidence', 'Desire', 'Joy']
+Classifying emotions for: Part II (On the Run)
+Emotions result:
+Answer: ['Desire', 'Loyalty', 'Devotion', 'Love']
+Classifying emotions for: The Story of O.J.
+Emotions result:
+Output: ['Pride', 'Anger', 'Confidence', 'Determination']
+Classifying emotions for: 4:44
+Emotions result:
+["Apology", "Love", "Regret", "Shame"]
+Classifying emotions for: Tom Ford
+Emotions result:
+['Confidence', 'Pride', 'Desire', 'Determination']
+Classifying emotions for: FuckWithMeYouKnowIGotIt
+Emotions result:
+['pride', 'confidence', 'desire', 'determination']
+Classifying emotions for: Renegade
+Emotions result:
+['Pride', 'Anger', 'Confidence', 'Resilience']
+Classifying emotions for: 99 Problems
+Emotions result:
+Output: ['anger', 'determination', 'confidence', 'pride']
+Classifying emotions for: Oceans
+Emotions result:
+Output: ['pride', 'anger', 'resolve', 'sentimentality']
+Classifying emotions for: Rap God
+Emotions result:
+['Pride', 'Anger', 'Confidence', 'Determination']
+Classifying emotions for: Lose Yourself
+Emotions result:
+['Anger', 'Determination', 'Desire', 'Confidence']
+Classifying emotions for: Killshot
+Emotions result:
+['Anger', 'Confidence', 'Pride', 'Determination']
+Classifying emotions for: Godzilla
+Emotions result:
+['Anger', 'Pride', 'Confidence', 'Determination']
+Classifying emotions for: Without Me
+Emotions result:
+Output: ['Pride', 'Anger', 'Confidence', 'Rebellion']
+Classifying emotions for: The Real Slim Shady
+Emotions result:
+['Anger', 'Confidence', 'Irreverence', 'Determination']
+Classifying emotions for: Stan
+Emotions result:
+['Anger', 'Despair', 'Desperation', 'Devotion']
+Classifying emotions for: The Monster
+Emotions result:
+['Confidence', 'Anger', 'Desire', 'Anxiety']
+Classifying emotions for: Lucky You
+Emotions result:
+['Pride', 'Anger', 'Determination', 'Confidence']
+Classifying emotions for: The Ringer
+Emotions result:
+['Anger', 'Confidence', 'Determination', 'Pride']
+Classifying emotions for: HUMBLE.
+Emotions result:
+['Pride', 'Anger', 'Confidence', 'Determination']
+Classifying emotions for: ​m.A.A.d city
+Emotions result:
+['Anger', 'Fear', 'Frustration', 'Despair']
+Classifying emotions for: Swimming Pools (Drank)
+Emotions result:
+['Anger', 'Despair', 'Recklessness', 'Contentment']
+Classifying emotions for: DNA.
+Emotions result:
+["Pride", "Anger", "Confidence", "Determination"]
+Classifying emotions for: Money Trees
+Emotions result:
+['Desire', 'Anger', 'Confidence', 'Determination']
+Classifying emotions for: XXX.
+Emotions result:
+['Anger', 'Despair', 'Frustration', 'Pain']
+Classifying emotions for: Bitch, Don’t Kill My Vibe
+Emotions result:
+Output: ['Sorrow', 'Anger', 'Pride', 'Determination']
+Classifying emotions for: King Kunta
+Emotions result:
+Output: ['Pride', 'Anger', 'Confidence', 'Determination']
+Classifying emotions for: Poetic Justice
+Emotions result:
+['Desire', 'Confidence', 'Anger', 'Determination']
+Classifying emotions for: LOVE.
+Emotions result:
+['Love', 'Trust', 'Devotion', 'Desire']
+Classifying emotions for: Doo Wop (That Thing)
+Emotions result:
+["Desire", "Anger", "Confidence", "Pride"]
+Classifying emotions for: Ex-Factor
+Emotions result:
+Output: ['Anger', 'Pain', 'Resentment', 'Despair']
+Classifying emotions for: To Zion
+Emotions result:
+['Desire', 'Devotion', 'Joy', 'Love']
+Classifying emotions for: Lost Ones
+Emotions result:
+['Anger', 'Pride', 'Confidence', 'Determination']
+Classifying emotions for: Can’t Take My Eyes Off of You
+Emotions result:
+Output: ['Desire', 'Devotion', 'Affection', 'Joy']
+Classifying emotions for: Tell Him
+Emotions result:
+['Love', 'Devotion', 'Need', 'Trust']
+Classifying emotions for: Nothing Even Matters
+Emotions result:
+Output: ['Love', 'Joy', 'Contentment', 'Happiness']
+Classifying emotions for: I Gotta Find Peace of Mind
+Emotions result:
+['Desire', 'Hope', 'Trust', 'Affection']
+Classifying emotions for: Everything is Everything
+Emotions result:
+['Determination', 'Hope', 'Inspiration', 'Resilience']
+Classifying emotions for: The Miseducation of Lauryn Hill
+Emotions result:
+Output: ['confidence', 'determination', 'pride', 'anger']
+Classifying emotions for: Self Care
+Emotions result:
+['Desire', 'Confidence', 'Determination', 'Beauty']
+Classifying emotions for: Good News
+Emotions result:
+Output: ['Hesitation', 'Frustration', 'Exhaustion', 'Hope']
+Classifying emotions for: 2009
+Emotions result:
+['Pride', 'Confidence', 'Optimism', 'Courage']
+Classifying emotions for: Weekend
+Emotions result:
+["Desire", "Confidence", "Determination", "Anger"]
+Classifying emotions for: Objects In the Mirror
+Emotions result:
+['Desire', 'Happiness', 'Confidence', 'Determination']
+Classifying emotions for: Cinderella
+Emotions result:
+['Desire', 'Affection', 'Devotion', 'Passion']
+Classifying emotions for: Come Back to Earth
+Emotions result:
+Output: ['Despair', 'Longing', 'Relief', 'Hope']
+Classifying emotions for: Diablo
+Emotions result:
+Output: ['Anger', 'Pride', 'Confidence', 'Determination']
+Classifying emotions for: Congratulations
+Emotions result:
+Output: ['Love', 'Joy', 'Devotion', 'Passion']
+Classifying emotions for: Dang!
+Emotions result:
+["Confusion", "Frustration", "Despair", "Love"]
+Classifying emotions for: In da Club
+Emotions result:
+['Confidence', 'Pride', 'Desire', 'Recklessness']
+Classifying emotions for: 21 Questions
+Emotions result:
+['Desire', 'Devotion', 'Loyalty', 'Love']
+Classifying emotions for: Many Men (Wish Death)
+Emotions result:
+["Fear", "Anger", "Resilience", "Pride"]
+Classifying emotions for: P.I.M.P.
+Emotions result:
+Output: ['Pride', 'Confidence', 'Anger', 'Determination']
+Classifying emotions for: Patiently Waiting
+Emotions result:
+Output: ['Pride', 'Anger', 'Confidence', 'Determination']
+Classifying emotions for: My Life
+Emotions result:
+Output: ['Anger', 'Frustration', 'Confidence', 'Determination']
+Classifying emotions for: Candy Shop
+Emotions result:
+['Desire', 'Excitement', 'Passion', 'Seduction']
+Classifying emotions for: Wanksta
+Emotions result:
+['Anger', 'Confidence', 'Pride', 'Determination']
+Classifying emotions for: I’m the Man
+Emotions result:
+Output: ['Pride', 'Confidence', 'Desire', 'Determination']
+Classifying emotions for: Best Friend
+Emotions result:
+['Desire', 'Loyalty', 'Affection', 'Longing']
+Classifying emotions for: N.Y. State of Mind
+Emotions result:
+Output: ['Anger', 'Confidence', 'Determination', 'Pride']
+Classifying emotions for: Ether
+Emotions result:
+Output: ['Anger', 'Confidence', 'Pride', 'Determination']
+Classifying emotions for: Life’s a Bitch
+Emotions result:
+['pride', 'anger', 'desperation', 'resignation']
+Classifying emotions for: The World Is Yours
+Emotions result:
+['Pride', 'Anger', 'Confidence', 'Hope']
+Classifying emotions for: The Message
+Emotions result:
+['Anger', 'Pride', 'Confidence', 'Determination']
+Classifying emotions for: It Ain’t Hard to Tell
+Emotions result:
+['pride', 'confidence', 'determination', 'anger']
+Classifying emotions for: One Love
+Emotions result:
+['Pride', 'Anger', 'Confidence', 'Loyalty']
+Classifying emotions for: If I Ruled the World (Imagine That)
+Emotions result:
+Output: ['Desire', 'Pride', 'Confidence', 'Determination']
+Classifying emotions for: Represent
+Emotions result:
+['Pride', 'Anger', 'Confidence', 'Determination']
+Classifying emotions for: Nas Is Like
+Emotions result:
+['Rebellion', 'Pride', 'Anger', 'Confidence']
+Classifying emotions for: Juicy
+Emotions result:
+['Pride', 'Anger', 'Confidence', 'Reflection']
+Classifying emotions for: Big Poppa
+Emotions result:
+['Pride', 'Confidence', 'Desire', 'Affection']
+Classifying emotions for: Suicidal Thoughts
+Emotions result:
+Output: ['Anger', 'Depression', 'Despair', 'Hopelessness']
+Classifying emotions for: Hypnotize
+Emotions result:
+Output: ['pride', 'confidence', 'desire', 'arrogance']
+Classifying emotions for: Ten Crack Commandments
+Emotions result:
+['Anger', 'Pride', 'Confidence', 'Determination']
+Classifying emotions for: Who Shot Ya?
+Emotions result:
+Output: ['Anger', 'Confidence', 'Determination', 'Pride']
+Classifying emotions for: Notorious Thugs
+Emotions result:
+['Pride', 'Confidence', 'Anger', 'Determination']
+Classifying emotions for: Mo’ Money Mo’ Problems
+Emotions result:
+['Pride', 'Confidence', 'Desire', 'Anger']
+Classifying emotions for: Dead Wrong
+Emotions result:
+Output: ['Anger', 'Confidence', 'Aggression', 'Rage']
+Classifying emotions for: Gimme the Loot
+Emotions result:
+['Anger', 'Confidence', 'Desire', 'Determination']
+Classifying emotions for: Hit ’Em Up
+Emotions result:
+['Anger', 'Desire', 'Confidence', 'Determination']
+Classifying emotions for: Changes
+Emotions result:
+["Anger", "Resentment", "Hope", "Desire"]
+Classifying emotions for: Keep Ya Head Up
+Emotions result:
+['Pride', 'Anger', 'Hopefulness', 'Urgency']
+Classifying emotions for: Hail Mary
+Emotions result:
+['Anger', 'Desperation', 'Determination', 'Pride']
+Classifying emotions for: Dear Mama
+Emotions result:
+Output: ['Love', 'Respect', 'Pride', 'Gratitude']
+Classifying emotions for: California Love
+Emotions result:
+Output: ['Joy', 'Pride', 'Energy', 'Confidence']
+Classifying emotions for: Ambitionz Az a Ridah
+Emotions result:
+['Pride', 'Anger', 'Confidence', 'Determination']
+Classifying emotions for: All Eyez On Me
+Emotions result:
+['Pride', 'Anger', 'Confidence', 'Determination']
+Classifying emotions for: 2 Of Amerikaz Most Wanted
+Emotions result:
+['Pride', 'Confidence', 'Anger', 'Determination']
+Classifying emotions for: Life Goes On
+Emotions result:
+['Pride', 'Sorrow', 'Anger', 'Loyalty']
+Classifying emotions for: Work
+Emotions result:
+Output: ['Love', 'Determination', 'Resilience', 'Rejection']
+Classifying emotions for: Love on the Brain
+Emotions result:
+Output: ['Desire', 'Passion', 'Longing', 'Devotion']
+Classifying emotions for: Needed Me
+Emotions result:
+Output: ['Anger', 'Confidence', 'Determination', 'Desire']
+Classifying emotions for: Stay
+Emotions result:
+Output: ['Desire', 'Affection', 'Longing', 'Devotion']
+Classifying emotions for: Kiss It Better
+Emotions result:
+["Desire", "Pride", "Anger", "Confidence"]
+Classifying emotions for: Diamonds
+Emotions result:
+Output example: ['Happiness', 'Love', 'Positivity', 'Elation']
+Classifying emotions for: Sex With Me
+Emotions result:
+Output: ['Desire', 'Confidence', 'Saucyness', 'Excitement']
+Classifying emotions for: Umbrella
+Emotions result:
+Output: ['Loyalty', 'Affection', 'Devotion', 'Desire']
+Classifying emotions for: Bitch Better Have My Money
+Emotions result:
+['Anger', 'Confidence', 'Determination', 'Desire']
+Classifying emotions for: Consideration
+Emotions result:
+["Desire", "Frustration", "Resilience", "Defiance"]
+Classifying emotions for: Drunk in Love
+Emotions result:
+['Desire', 'Romance', 'Passion', 'Contentment']
+Classifying emotions for: Formation
+Emotions result:
+Output: ["pride", "confidence", "determination", "anger"]
+Classifying emotions for: Partition
+Emotions result:
+Output: ['Desire', 'Confidence', 'Pride', 'Seduction']
+Classifying emotions for: Halo
+Emotions result:
+["Love", "Joy", "Hope", "Gratitude"]
+Classifying emotions for: If I Were a Boy
+Emotions result:
+Output: ['Desire', 'Anger', 'Sadness', 'Frustration']
+Classifying emotions for: Mine
+Emotions result:
+['Affection', 'Desire', 'Devotion', 'Loyalty']
+Classifying emotions for: Hold Up
+Emotions result:
+Output: ['Love', 'Jealousy', 'Craziness', 'Determination']
+Classifying emotions for: Flawless Remix
+Emotions result:
+['Pride', 'Confidence', 'Determination', 'Loyalty']
+Classifying emotions for: Sorry
+Emotions result:
+["Pride", "Anger", "Confidence", "Determination"]
+Classifying emotions for: Pray You Catch Me
+Emotions result:
+Output: ['Despair', 'Regret', 'Pain', 'Loneliness']
+Classifying emotions for: All I Want for Christmas Is You
+Emotions result:
+['Desire', 'Devotion', 'Loyalty', 'Affection']
+Classifying emotions for: We Belong Together
+Emotions result:
+['Longing', 'Sadness', 'Regret', 'Love']
+Classifying emotions for: Obsessed
+Emotions result:
+['Anger', 'Frustration', 'Rejection', 'Confidence']
+Classifying emotions for: Fantasy
+Emotions result:
+Output: ["Desire", "Lust", "Happiness", "Longing"]
+Classifying emotions for: #Beautiful
+Emotions result:
+Output: ['Desire', 'Affection', 'Confidence', 'Passion']
+Classifying emotions for: Always Be My Baby
+Emotions result:
+Output: ['Desire', 'Devotion', 'Loyalty', 'Affection']
+Classifying emotions for: Hero
+Emotions result:
+Output: ['Hope', 'Courage', 'Strength', 'Inspiration']
+Classifying emotions for: One Sweet Day
+Emotions result:
+Output: ['Grief', 'Longing', 'Hope', 'Remembrance']
+Classifying emotions for: Fantasy (Bad Boy Remix)
+Emotions result:
+['Desire', 'Joy', 'Pride', 'Confidence']
+Classifying emotions for: Touch My Body
+Emotions result:
+['Desire', 'Confidence', 'Passion', 'Love']
+Classifying emotions for: I Will Always Love You
+Emotions result:
+Output: ['Love', 'Sadness', 'Gratitude', 'Reminiscence']
+Classifying emotions for: I Have Nothing
+Emotions result:
+Output: ['Desire', 'Devotion', 'Loyalty', 'Affection']
+Classifying emotions for: I Wanna Dance with Somebody (Who Loves Me)
+Emotions result:
+Output: ['Desire', 'Loneliness', 'Longing', 'Affection']
+Classifying emotions for: Greatest Love of All
+Emotions result:
+Output: ['Pride', 'Confidence', 'Determination', 'Love']
+Classifying emotions for: How Will I Know
+Emotions result:
+Output: ['Desire', 'Longing', 'Hope', 'Insecurity']
+Classifying emotions for: Saving All My Love for You
+Emotions result:
+Output: ['Desire', 'Devotion', 'Loyalty', 'Affection']
+Classifying emotions for: It’s Not Right, But It’s Okay
+Emotions result:
+['Anger', 'Despair', 'Resolve', 'Determination']
+Classifying emotions for: Run to You
+Emotions result:
+Output: ['Fear', 'Loneliness', 'Desire', 'Longing']
+Classifying emotions for: I’m Every Woman
+Emotions result:
+Output: ['Confidence', 'Determination', 'Pride', 'Desire']
+Classifying emotions for: My Love is Your Love
+Emotions result:
+['Love', 'Devotion', 'Resilience', 'Protection']
+Classifying emotions for: Old Town Road (Remix)
+Emotions result:
+Output: ['pride', 'confidence', 'determination', 'freedom']
+Classifying emotions for: MONTERO (Call Me By Your Name)
+Emotions result:
+['Desire', 'Confidence', 'Envy', 'Lust']
+Classifying emotions for: Old Town Road
+Emotions result:
+Output: ['pride', 'confidence', 'determination', 'anger']
+Classifying emotions for: Panini
+Emotions result:
+Output: ['Pride', 'Anger', 'Confidence', 'Determination']
+Classifying emotions for: HOLIDAY
+Emotions result:
+Output: ['Pride', 'Anger', 'Confidence', 'Excitement']
+Classifying emotions for: THATS WHAT I WANT
+Emotions result:
+['Desire', 'Loneliness', 'Longing', 'Love']
+Classifying emotions for: C7osure (You Like)
+Emotions result:
+['Confidence', 'Determination', 'Freedom', 'Pride']
+Classifying emotions for: SUN GOES DOWN
+Emotions result:
+Output: ["Desire", "Sadness", "Fear", "Happiness"]
+Classifying emotions for: Old Town Road (Young Thug & Mason Ramsey Remix)
+Emotions result:
+['Confidence', 'Pride', 'Determination', 'Excitement']
+Classifying emotions for: SCOOP
+Emotions result:
+Output: ['Pride', 'Confidence', 'Determination', 'Desire']
+Classifying emotions for: Say So
+Emotions result:
+['Desire', 'Longing', 'Affection', 'Commitment']
+Classifying emotions for: Kiss Me More
+Emotions result:
+Output: ['Desire', 'Affection', 'Loyalty', 'Excitement']
+Classifying emotions for: Need to Know
+Emotions result:
+['Desire', 'Confidence', 'Excitement', 'Curiosity']
+Classifying emotions for: Agora Hills
+Emotions result:
+['Desire', 'Devotion', 'Loyalty', 'Passion']
+Classifying emotions for: Ain’t Shit
+Emotions result:
+Output: ['Disdain', 'Frustration', 'Annoyance', 'Contempt']
+Classifying emotions for: 4 Morant (Better Luck Next Time)
+Emotions result:
+Output: ['Regret', 'Disappointment', 'Frustration', 'Discouragement']
+Classifying emotions for: MOOO!
+Emotions result:
+['Confidence', 'Determination', 'Pride', 'Anger']
+Classifying emotions for: Say So (Remix)
+Emotions result:
+['Desire', 'Devotion', 'Confidence', 'Determination']
+Classifying emotions for: Juicy
+Emotions result:
+Output: ['Desire', 'Confidence', 'Pride', 'Joy']
+Classifying emotions for: Rules
+Emotions result:
+["Desire", "Anger", "Confidence", "Determination"]
+Classifying emotions for: Burn
+Emotions result:
+["Sadness", "Longing", "Anguish", "Regret"]
+Classifying emotions for: Yeah!
+Emotions result:
+['Desire', 'Confidence', 'Excitement', 'Passion']
+Classifying emotions for: Climax
+Emotions result:
+["Sadness", "Longing", "Frustration", "Regret"]
+Classifying emotions for: I Don’t Mind
+Emotions result:
+['Desire', 'Devotion', 'Pride', 'Confidence']
+Classifying emotions for: Confessions Part II
+Emotions result:
+Output: ['guilt', 'regret', 'remorse', 'confusion']
+Classifying emotions for: No Limit
+Emotions result:
+Output: ["Desire", "Confidence", "Pride", "Joy"]
+Classifying emotions for: Nice & Slow
+Emotions result:
+['Desire', 'Anticipation', 'Passion', 'Confidence']
+Classifying emotions for: U Got It Bad
+Emotions result:
+Output: ['Desire', 'Devotion', 'Loyalty', 'Affection']
+Classifying emotions for: Rivals
+Emotions result:
+['Desire', 'Devotion', 'Loyalty', 'Affection']
+Classifying emotions for: Confessions Part I
+Emotions result:
+['Anger', 'Fear', 'Regret', 'Remorse']
+Classifying emotions for: Look at Me Now
+Emotions result:
+Output: ['Confidence', 'Pride', 'Anger', 'Determination']
+Classifying emotions for: No Guidance
+Emotions result:
+Output: ['Desire', 'Confidence', 'Excitement', 'Affection']
+Classifying emotions for: Privacy
+Emotions result:
+['Desire', 'Confidence', 'Passion', 'Love']
+Classifying emotions for: Love More
+Emotions result:
+Output: ['Desire', 'Confidence', 'Anger', 'Affection']
+Classifying emotions for: Loyal
+Emotions result:
+["Desire", "Anger", "Confidence", "Determination"]
+Classifying emotions for: Autumn Leaves
+Emotions result:
+Output: ['Desire', 'Sadness', 'Confidence', 'Longing']
+Classifying emotions for: Loyal (East Coast Version)
+Emotions result:
+Output: ["Desire", "Anger", "Confidence", "Loyalty"]
+Classifying emotions for: Pills & Automobiles
+Emotions result:
+Output: ['Desire', 'Confidence', 'Loyalty', 'Pride']
+Classifying emotions for: Under the Influence
+Emotions result:
+['Desire', 'Confidence', 'Romance', 'Passion']
+Classifying emotions for: Deuces (Remix)
+Emotions result:
+Output: ['Anger', 'Resentment', 'Sadness', 'Frustration']
+Classifying emotions for: The Hills
+Emotions result:
+['Desire', 'Anger', 'Confidence', 'Determination']
+Classifying emotions for: Starboy
+Emotions result:
+['Anger', 'Pride', 'Confidence', 'Desire']
+Classifying emotions for: Can’t Feel My Face
+Emotions result:
+Output: ['Desire', 'Devotion', 'Loyalty', 'Love']
+Classifying emotions for: Die For You
+Emotions result:
+['Love', 'Devotion', 'Desire', 'Sadness']
+Classifying emotions for: Reminder
+Emotions result:
+['Pride', 'Confidence', 'Anger', 'Determination']
+Classifying emotions for: Call Out My Name
+Emotions result:
+Output: ['Desire', 'Anger', 'Loyalty', 'Confidence']
+Classifying emotions for: Blinding Lights
+Emotions result:
+['Desire', 'Longing', 'Trust', 'Devotion']
+Classifying emotions for: Often
+Emotions result:
+Output: ['Confidence', 'Desire', 'Joy', 'Pride']
+Classifying emotions for: Heartless
+Emotions result:
+['Pain', 'Hopelessness', 'Loneliness', 'Despair']
+Classifying emotions for: Wicked Games
+Emotions result:
+Output: ['Confidence', 'Desire', 'Pain', 'Shame']
+Classifying emotions for: Work It
+Emotions result:
+['Confidence', 'Pride', 'Determination', 'Desire']
+Classifying emotions for: WTF (Where They From)
+Emotions result:
+["Confidence", "Determination", "Pride", "Anger"]
+Classifying emotions for: Get Ur Freak On
+Emotions result:
+['Confidence', 'Determination', 'Pride', 'Joy']
+Classifying emotions for: Gossip Folks
+Emotions result:
+["Anger", "Confidence", "Pride", "Determination"]
+Classifying emotions for: The Rain (Supa Dupa Fly)
+Emotions result:
+Output: ['Desire', 'Confidence', 'Determination', 'Resilience']
+Classifying emotions for: Lose Control
+Emotions result:
+["Excitement", "Joy", "Aggression", "Energy"]
+Classifying emotions for: I’m Better
+Emotions result:
+['Pride', 'Confidence', 'Determination', 'Joy']
+Classifying emotions for: One Minute Man (Video Remix)
+Emotions result:
+Output: ['Desire', 'Confidence', 'Determination', 'Anger']
+Classifying emotions for: Hot Boyz (Remix)
+Emotions result:
+["Desire", "Confidence", "Pride", "Aggression"]
+Classifying emotions for: Bomb Intro / Pass That Dutch
+Emotions result:
+Output: ['Confidence', 'Energy', 'Determination', 'Excitement']
+Classifying emotions for: ​​rockstar
+Emotions result:
+["Pride", "Confidence", "Desire", "Anger"]
+Classifying emotions for: White Iverson
+Emotions result:
+['Confidence', 'Pride', 'Determination', 'Desire']
+Classifying emotions for: Congratulations
+Emotions result:
+['Pride', 'Anger', 'Confidence', 'Determination']
+Classifying emotions for: Psycho
+Emotions result:
+['Pride', 'Confidence', 'Determination', 'Desire']
+Classifying emotions for: I Fall Apart
+Emotions result:
+Output: ['Sadness', 'Rejection', 'Betrayal', 'Loneliness']
+Classifying emotions for: Circles
+Emotions result:
+['Sadness', 'Despair', 'Yearning', 'Regret']
+Classifying emotions for: Better Now
+Emotions result:
+Output: ['Sadness', 'Pain', 'Hurt', 'Regret']
+Classifying emotions for: Wow.
+Emotions result:
+["Pride", "Confidence", "Celebration", "Contentment"]
+Classifying emotions for: Stay
+Emotions result:
+['Desire', 'Anger', 'Confidence', 'Determination']
+Classifying emotions for: Go Flex
+Emotions result:
+Output: ['Desire', 'Confidence', 'Pride', 'Determination']
+Classifying emotions for: Feel This Moment
+Emotions result:
+Output: ['Confidence', 'Desire', 'Determination', 'Pride']
+Classifying emotions for: Timber
+Emotions result:
+Output: ['Confidence', 'Determination', 'Excitement', 'Joy']
+Classifying emotions for: Give Me Everything
+Emotions result:
+['Desire', 'Confidence', 'Excitement', 'Romance']
+Classifying emotions for: Hotel Room Service
+Emotions result:
+Output: ['Desire', 'Confidence', 'Joy', 'Anticipation']
+Classifying emotions for: Options
+Emotions result:
+Output: ['Desire', 'Confidence', 'Loyalty', 'Affection']
+Classifying emotions for: International Love
+Emotions result:
+Output: ['Desire', 'Confidence', 'Joy', 'Pride']
+Classifying emotions for: We Are One (Ole Ola)
+Emotions result:
+["Pride", "Confidence", "Unity", "Happiness"]
+Classifying emotions for: Fireball
+Emotions result:
+Output: ['Pride', 'Confidence', 'Desire', 'Determination']
+Classifying emotions for: I Know You Want Me (Calle Ocho)
+Emotions result:
+['Desire', 'Confidence', 'Excitement', 'Passion']
+Classifying emotions for: Rain Over Me
+Emotions result:
+["Desire", "Confidence", "Excitement", "Passion"]
+Classifying emotions for: Thinkin Bout You
+Emotions result:
+Output: ['Desire', 'Devotion', 'Longing', 'Affection']
+Classifying emotions for: Nights
+Emotions result:
+['Confidence', 'Desire', 'Struggle', 'Resilience']
+Classifying emotions for: Self Control
+Emotions result:
+Output: ['Desire', 'Sadness', 'Longing', 'Romance']
+Classifying emotions for: Ivy
+Emotions result:
+Output: ['Romance', 'Happiness', 'Desire', 'Longing']
+Classifying emotions for: Chanel
+Emotions result:
+['Pride', 'Determination', 'Confidence', 'Anger']
+Classifying emotions for: Pink Matter
+Emotions result:
+Output: ['Desire', 'Pleasure', 'Confidence', 'Determination']
+Classifying emotions for: Pyramids
+Emotions result:
+Output: ['Desire', 'Anger', 'Determination', 'Pride']
+Classifying emotions for: Nikes
+Emotions result:
+['Desire', 'Anger', 'Confidence', 'Determination']
+Classifying emotions for: Lost
+Emotions result:
+Output: ['Desire', 'Devotion', 'Love', 'Affection']
+Classifying emotions for: Super Rich Kids
+Emotions result:
+['Desire', 'Resentment', 'Pride', 'Confidence']

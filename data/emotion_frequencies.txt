@@ -1,0 +1,12 @@
+anger         43
+confidence    74
+desire        62
+disgust        6
+gratitude      9
+joy           44
+love          49
+lust          36
+pride          2
+sadness       42
+shame          4
+dtype: int64

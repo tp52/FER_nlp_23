@@ -1,0 +1,71 @@
+Best parameters found:  {'clf__estimator__max_depth': 10, 'clf__estimator__n_estimators': 50, 'tfidf__max_features': 200}
+Best cross-validation score: 0.26
+Hamming Loss: 0.1053639846743295
+              precision    recall  f1-score   support
+
+       anger       0.86      0.35      0.50        17
+  confidence       0.73      0.75      0.74        32
+      desire       0.00      0.00      0.00        22
+     disgust       1.00      0.64      0.78        11
+   gratitude       1.00      0.83      0.91         6
+         joy       1.00      0.22      0.36        18
+        love       1.00      0.11      0.20        18
+        lust       0.00      0.00      0.00        11
+     sadness       0.92      0.48      0.63        23
+       shame       1.00      1.00      1.00         5
+        fear       1.00      1.00      1.00         4
+anticipation       1.00      1.00      1.00         5
+
+   micro avg       0.87      0.42      0.57       172
+   macro avg       0.79      0.53      0.59       172
+weighted avg       0.73      0.42      0.49       172
+ samples avg       0.45      0.39      0.41       172
+
+Confusion Matrix for anger:
+[[69  1]
+ [11  6]]
+
+Confusion Matrix for confidence:
+[[46  9]
+ [ 8 24]]
+
+Confusion Matrix for desire:
+[[65  0]
+ [22  0]]
+
+Confusion Matrix for disgust:
+[[76  0]
+ [ 4  7]]
+
+Confusion Matrix for gratitude:
+[[81  0]
+ [ 1  5]]
+
+Confusion Matrix for joy:
+[[69  0]
+ [14  4]]
+
+Confusion Matrix for love:
+[[69  0]
+ [16  2]]
+
+Confusion Matrix for lust:
+[[76  0]
+ [11  0]]
+
+Confusion Matrix for sadness:
+[[63  1]
+ [12 11]]
+
+Confusion Matrix for shame:
+[[82  0]
+ [ 0  5]]
+
+Confusion Matrix for fear:
+[[83  0]
+ [ 0  4]]
+
+Confusion Matrix for anticipation:
+[[82  0]
+ [ 0  5]]
+

@@ -1,0 +1,429 @@
+Searching for songs by Drake...
+
+Song 1: "God’s Plan"
+Song 2: "In My Feelings"
+Song 3: "Hotline Bling"
+Song 4: "One Dance"
+Song 5: "Hold On, We’re Going Home"
+Song 6: "Know Yourself"
+Song 7: "Back to Back"
+Song 8: "All Me"
+Song 9: "From Time"
+Song 10: "Fake Love"
+
+Reached user-specified song limit (10).
+Done. Found 10 songs.
+Searching for songs by J Cole...
+
+Changing artist name to 'J. Cole'
+Song 1: "No Role Modelz"
+Song 2: "Power Trip"
+Song 3: "Wet Dreamz"
+Song 4: "Crooked Smile"
+Song 5: "MIDDLE CHILD"
+Song 6: "She Knows"
+Song 7: "Deja Vu"
+Song 8: "Love Yourz"
+Song 9: "G.O.M.D."
+Song 10: "Apparently"
+
+Reached user-specified song limit (10).
+Done. Found 10 songs.
+Searching for songs by Nicki Minaj...
+
+Song 1: "Only"
+Song 2: "Feeling Myself"
+Song 3: "Barbie Dreams"
+Song 4: "Truffle Butter"
+Song 5: "Anaconda"
+Song 6: "Chun-Li"
+Song 7: "Beez In The Trap"
+Song 8: "Super Bass"
+Song 9: "Lookin Ass"
+Song 10: "Pills N Potions"
+
+Reached user-specified song limit (10).
+Done. Found 10 songs.
+Searching for songs by Ice Cube...
+
+Song 1: "No Vaseline"
+Song 2: "It Was a Good Day"
+Song 3: "Gangsta Rap Made Me Do It"
+Song 4: "Check Yo Self"
+Song 5: "You Know How We Do It"
+Song 6: "Hello"
+Song 7: "The Nigga Ya Love To Hate"
+Song 8: "Check Yo Self (Remix)"
+Song 9: "You Can Do It"
+Song 10: "Why We Thugs"
+
+Reached user-specified song limit (10).
+Done. Found 10 songs.
+Searching for songs by Lil Wayne...
+
+Song 1: "Love Me"
+Song 2: "Mona Lisa"
+Song 3: "6 Foot 7 Foot"
+Song 4: "Believe Me"
+Song 5: "Mirror"
+Song 6: "Rich As Fuck"
+Song 7: "A Milli"
+Song 8: "She Will"
+Song 9: "Don’t Cry"
+Song 10: "Lollipop (Remix)"
+
+Reached user-specified song limit (10).
+Done. Found 10 songs.
+Searching for songs by Kanye West...
+
+Song 1: "Mercy"
+Song 2: "Monster"
+Song 3: "Father Stretch My Hands, Pt. 1"
+Song 4: "Ultralight Beam"
+Song 5: "Bound 2"
+Song 6: "New Slaves"
+Song 7: "Runaway"
+Song 8: "Blood On the Leaves"
+Song 9: "Black Skinhead"
+Song 10: "No More Parties in LA"
+
+Reached user-specified song limit (10).
+Done. Found 10 songs.
+Searching for songs by Jay Z...
+
+Changing artist name to 'JAY-Z'
+Song 1: "Holy Grail"
+Song 2: "Empire State of Mind"
+Song 3: "Part II (On the Run)"
+Song 4: "The Story of O.J."
+Song 5: "4:44"
+Song 6: "Tom Ford"
+Song 7: "FuckWithMeYouKnowIGotIt"
+Song 8: "Renegade"
+Song 9: "99 Problems"
+Song 10: "Oceans"
+
+Reached user-specified song limit (10).
+Done. Found 10 songs.
+Searching for songs by Eminem...
+
+Song 1: "Rap God"
+Song 2: "Lose Yourself"
+Song 3: "Killshot"
+Song 4: "Godzilla"
+Song 5: "Without Me"
+Song 6: "The Real Slim Shady"
+Song 7: "Stan"
+Song 8: "The Monster"
+Song 9: "Lucky You"
+Song 10: "The Ringer"
+
+Reached user-specified song limit (10).
+Done. Found 10 songs.
+Searching for songs by Kendrick Lamar...
+
+Song 1: "HUMBLE."
+Song 2: "​m.A.A.d city"
+Song 3: "Swimming Pools (Drank)"
+Song 4: "DNA."
+Song 5: "Money Trees"
+Song 6: "XXX."
+Song 7: "Bitch, Don’t Kill My Vibe"
+Song 8: "King Kunta"
+Song 9: "Poetic Justice"
+Song 10: "LOVE."
+
+Reached user-specified song limit (10).
+Done. Found 10 songs.
+Searching for songs by Lauren Hill...
+
+Changing artist name to 'Lauryn Hill'
+Song 1: "Doo Wop (That Thing)"
+Song 2: "Ex-Factor"
+Song 3: "To Zion"
+Song 4: "Lost Ones"
+Song 5: "Can’t Take My Eyes Off of You"
+Song 6: "Tell Him"
+Song 7: "Nothing Even Matters"
+Song 8: "I Gotta Find Peace of Mind"
+Song 9: "Everything is Everything"
+Song 10: "The Miseducation of Lauryn Hill"
+
+Reached user-specified song limit (10).
+Done. Found 10 songs.
+Searching for songs by Mac Miller...
+
+Song 1: "Self Care"
+Song 2: "Good News"
+Song 3: "2009"
+Song 4: "Weekend"
+Song 5: "Objects In the Mirror"
+Song 6: "Cinderella"
+Song 7: "Come Back to Earth"
+Song 8: "Diablo"
+Song 9: "Congratulations"
+Song 10: "Dang!"
+
+Reached user-specified song limit (10).
+Done. Found 10 songs.
+Searching for songs by 50 Cent...
+
+Song 1: "In da Club"
+Song 2: "21 Questions"
+Song 3: "Many Men (Wish Death)"
+Song 4: "P.I.M.P."
+Song 5: "Patiently Waiting"
+Song 6: "My Life"
+Song 7: "Candy Shop"
+Song 8: "Wanksta"
+Song 9: "I’m the Man"
+Song 10: "Best Friend"
+
+Reached user-specified song limit (10).
+Done. Found 10 songs.
+Searching for songs by Nas...
+
+Song 1: "N.Y. State of Mind"
+Song 2: "Ether"
+Song 3: "Life’s a Bitch"
+Song 4: "The World Is Yours"
+Song 5: "The Message"
+Song 6: "It Ain’t Hard to Tell"
+Song 7: "One Love"
+Song 8: "If I Ruled the World (Imagine That)"
+Song 9: "Represent"
+Song 10: "Nas Is Like"
+
+Reached user-specified song limit (10).
+Done. Found 10 songs.
+Searching for songs by Biggie Smalls...
+
+Changing artist name to 'The Notorious B.I.G.'
+Song 1: "Juicy"
+Song 2: "Big Poppa"
+Song 3: "Suicidal Thoughts"
+Song 4: "Hypnotize"
+Song 5: "Ten Crack Commandments"
+Song 6: "Who Shot Ya?"
+Song 7: "Notorious Thugs"
+Song 8: "Mo’ Money Mo’ Problems"
+Song 9: "Dead Wrong"
+Song 10: "Gimme the Loot"
+
+Reached user-specified song limit (10).
+Done. Found 10 songs.
+Searching for songs by Tupac...
+
+Changing artist name to '2Pac'
+Song 1: "Hit ’Em Up"
+Song 2: "Changes"
+Song 3: "Keep Ya Head Up"
+Song 4: "Hail Mary"
+Song 5: "Dear Mama"
+Song 6: "California Love"
+Song 7: "Ambitionz Az a Ridah"
+Song 8: "All Eyez On Me"
+Song 9: "2 Of Amerikaz Most Wanted"
+Song 10: "Life Goes On"
+
+Reached user-specified song limit (10).
+Done. Found 10 songs.
+Searching for songs by Rihanna...
+
+Song 1: "Work"
+Song 2: "Love on the Brain"
+Song 3: "Needed Me"
+Song 4: "Stay"
+Song 5: "Kiss It Better"
+Song 6: "Diamonds"
+Song 7: "Sex With Me"
+Song 8: "Umbrella"
+Song 9: "Bitch Better Have My Money"
+Song 10: "Consideration"
+
+Reached user-specified song limit (10).
+Done. Found 10 songs.
+Searching for songs by Beyonce...
+
+Changing artist name to 'Beyoncé'
+Song 1: "Drunk in Love"
+Song 2: "Formation"
+Song 3: "Partition"
+Song 4: "Halo"
+Song 5: "If I Were a Boy"
+Song 6: "Mine"
+Song 7: "Hold Up"
+Song 8: "Flawless Remix"
+Song 9: "Sorry"
+Song 10: "Pray You Catch Me"
+
+Reached user-specified song limit (10).
+Done. Found 10 songs.
+Searching for songs by Mariah Carey...
+
+Song 1: "All I Want for Christmas Is You"
+Song 2: "We Belong Together"
+Song 3: "Obsessed"
+Song 4: "Fantasy"
+Song 5: "#Beautiful"
+Song 6: "Always Be My Baby"
+Song 7: "Hero"
+Song 8: "One Sweet Day"
+Song 9: "Fantasy (Bad Boy Remix)"
+Song 10: "Touch My Body"
+
+Reached user-specified song limit (10).
+Done. Found 10 songs.
+Searching for songs by Whitney Houston...
+
+Song 1: "I Will Always Love You"
+Song 2: "I Have Nothing"
+Song 3: "I Wanna Dance with Somebody (Who Loves Me)"
+Song 4: "Greatest Love of All"
+Song 5: "How Will I Know"
+Song 6: "Saving All My Love for You"
+Song 7: "It’s Not Right, But It’s Okay"
+Song 8: "Run to You"
+Song 9: "I’m Every Woman"
+Song 10: "My Love is Your Love"
+
+Reached user-specified song limit (10).
+Done. Found 10 songs.
+Searching for songs by Lil Nas X...
+
+Song 1: "Old Town Road (Remix)"
+Song 2: "MONTERO (Call Me By Your Name)"
+Song 3: "Old Town Road"
+Song 4: "Panini"
+Song 5: "HOLIDAY"
+Song 6: "THATS WHAT I WANT"
+Song 7: "C7osure (You Like)"
+Song 8: "SUN GOES DOWN"
+Song 9: "Old Town Road (Young Thug & Mason Ramsey Remix)"
+Song 10: "SCOOP"
+
+Reached user-specified song limit (10).
+Done. Found 10 songs.
+Searching for songs by Doja Cat...
+
+Song 1: "Say So"
+Song 2: "Kiss Me More"
+Song 3: "Need to Know"
+Song 4: "Agora Hills"
+Song 5: "Ain’t Shit"
+Song 6: "4 Morant (Better Luck Next Time)"
+Song 7: "MOOO!"
+Song 8: "Say So (Remix)"
+Song 9: "Juicy"
+Song 10: "Rules"
+
+Reached user-specified song limit (10).
+Done. Found 10 songs.
+Searching for songs by Usher...
+
+Changing artist name to 'USHER'
+Song 1: "Burn"
+Song 2: "Yeah!"
+Song 3: "Climax"
+Song 4: "I Don’t Mind"
+Song 5: "Confessions Part II"
+Song 6: "No Limit"
+Song 7: "Nice & Slow"
+Song 8: "U Got It Bad"
+Song 9: "Rivals"
+Song 10: "Confessions Part I"
+
+Reached user-specified song limit (10).
+Done. Found 10 songs.
+Searching for songs by Chris Brown...
+
+Song 1: "Look at Me Now"
+Song 2: "No Guidance"
+Song 3: "Privacy"
+Song 4: "Love More"
+Song 5: "Loyal"
+Song 6: "Autumn Leaves"
+Song 7: "Loyal (East Coast Version)"
+Song 8: "Pills & Automobiles"
+Song 9: "Under the Influence"
+Song 10: "Deuces (Remix)"
+
+Reached user-specified song limit (10).
+Done. Found 10 songs.
+Searching for songs by The Weeknd...
+
+Song 1: "The Hills"
+Song 2: "Starboy"
+Song 3: "Can’t Feel My Face"
+Song 4: "Die For You"
+Song 5: "Reminder"
+Song 6: "Call Out My Name"
+Song 7: "Blinding Lights"
+Song 8: "Often"
+Song 9: "Heartless"
+Song 10: "Wicked Games"
+
+Reached user-specified song limit (10).
+Done. Found 10 songs.
+Searching for songs by Missy Elliott...
+
+Song 1: "Work It"
+Song 2: "WTF (Where They From)"
+Song 3: "Get Ur Freak On"
+Song 4: "Gossip Folks"
+Song 5: "The Rain (Supa Dupa Fly)"
+Song 6: "Lose Control"
+Song 7: "I’m Better"
+Song 8: "One Minute Man (Video Remix)"
+Song 9: "Hot Boyz (Remix)"
+Song 10: "Bomb Intro / Pass That Dutch"
+
+Reached user-specified song limit (10).
+Done. Found 10 songs.
+Searching for songs by Post Malone...
+
+Song 1: "​​rockstar"
+Song 2: "White Iverson"
+Song 3: "Congratulations"
+Song 4: "Psycho"
+Song 5: "I Fall Apart"
+Song 6: "Circles"
+Song 7: "Better Now"
+Song 8: "Wow."
+Song 9: "Stay"
+Song 10: "Go Flex"
+
+Reached user-specified song limit (10).
+Done. Found 10 songs.
+Searching for songs by Pitbull...
+
+Song 1: "Feel This Moment"
+Song 2: "Timber"
+Song 3: "Give Me Everything"
+Song 4: "Hotel Room Service"
+Song 5: "Options"
+Song 6: "International Love"
+Song 7: "We Are One (Ole Ola)"
+Song 8: "Fireball"
+Song 9: "I Know You Want Me (Calle Ocho)"
+Song 10: "Rain Over Me"
+
+Reached user-specified song limit (10).
+Done. Found 10 songs.
+Searching for songs by Frank Ocean...
+
+Song 1: "Thinkin Bout You"
+Song 2: "Nights"
+Song 3: "Self Control"
+Song 4: "Ivy"
+Song 5: "Chanel"
+Song 6: "Pink Matter"
+Song 7: "Pyramids"
+Song 8: "Nikes"
+Song 9: "Lost"
+Song 10: "Super Rich Kids"
+
+Reached user-specified song limit (10).
+Done. Found 10 songs.
+
+Process finished with exit code 0
